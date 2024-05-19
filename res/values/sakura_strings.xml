@@ -228,4 +228,7 @@
   <string name="unit_milliseconds">milliseconds</string>
   <string name="unit_pixels" translatable="false">dp</string>
   <string name="unit_hz" translatable="false">hz</string>
+  <!-- Ignore window secure -->
+  <string name="ignore_window_secure_title">Ignore window secure flags</string>
+  <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
 </resources>
